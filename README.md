@@ -1,2 +1,2 @@
 # townhall5
-https://ryankenttownhall5.netlify.app/town_hall_5/index.html
+https://ryankenttownhall5.netlify.app/index.html
